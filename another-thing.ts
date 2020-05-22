@@ -1,0 +1,1 @@
+export const output = 'what a thing this is';

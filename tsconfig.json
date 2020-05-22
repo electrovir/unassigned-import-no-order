@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "lib": ["ES2015", "DOM"],
+        "forceConsistentCasingInFileNames": true,
+        "module": "commonjs",
+        "noImplicitReturns": true,
+        "strict": true,
+        "target": "es6"
+    }
+}
